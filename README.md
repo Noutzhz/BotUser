@@ -19,7 +19,7 @@ BotUser e um bot teste usado e armazenado aqui no github para que voce possa usa
 ```bash
   git clone https://github.com/Noutzhz/BotUser.git
   cd BotUser
-  python3 client.py
+  python3 Client.py
 ```
     
 ## instalando no seu pc
